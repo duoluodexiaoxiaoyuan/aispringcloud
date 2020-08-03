@@ -1,0 +1,7 @@
+# Project exclude paths
+/consumer/target/
+/eurekaclient/target/
+/eurekaserver/target/
+/nativeconfigclient/target/
+/nativeconfigserver/target/
+/resttemplate/target/
